@@ -46,6 +46,17 @@
 <br/>
 <hr/>
 
+<h2 align="center">📺 Latest YouTube Videos 📺</h2>
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Building a Modern Registration Form Web Application | Web Development Tutorial](https://ytcards.demolab.com/?id=VIDEO_ID_1&title=Video+Title+1&lang=en&timestamp=TIMESTAMP_1&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50 "Building a Modern Registration Form Web Application | Web Development Tutorial")](https://www.youtube.com/watch?v=3n4PFt5NN6o&list=PLrrZgEzf04tXg_vAHoAdEfKMdV3xA0c0d&index=2)
+[![Effortless Money Management-- Creating Your IncomeExpenseTracker Web Application](https://ytcards.demolab.com/?id=VIDEO_ID_2&title=Video+Title+2&lang=en&timestamp=TIMESTAMP_2&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=699 "Effortless Money Management-- Creating Your IncomeExpenseTracker Web Application")](https://www.youtube.com/watch?v=lmVHdFa5TLs&list=PLrrZgEzf04tXg_vAHoAdEfKMdV3xA0c0d&index=3)
+[![Android Calculator App Development Tutorial for Beginners](https://ytcards.demolab.com/?id=VIDEO_ID_3&title=Video+Title+3&lang=en&timestamp=TIMESTAMP_3&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=903 "Android Calculator App Development Tutorial for Beginners")](https://www.youtube.com/watch?v=8VtK9Gy16J8&list=PLrrZgEzf04tW2GVvtuHgZmw_Su8yraBzE)
+<!-- END YOUTUBE-CARDS -->
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/content_verse?sub_confirmation=1)
+
+<hr/>
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
