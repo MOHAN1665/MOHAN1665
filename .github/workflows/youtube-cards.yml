@@ -6,8 +6,10 @@ on:
   workflow_dispatch:
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
