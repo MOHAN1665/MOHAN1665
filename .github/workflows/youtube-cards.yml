@@ -1,3 +1,4 @@
+
 name: GitHub Readme YouTube Cards
 on:
   schedule:
@@ -8,6 +9,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
