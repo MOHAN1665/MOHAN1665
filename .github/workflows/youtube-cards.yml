@@ -1,19 +1,158 @@
-name: GitHub Readme YouTube Cards
-on:
-  schedule:
-    # Runs every hour, on the hour
-    - cron: '0 * * * *'
-  workflow_dispatch:
+name: "GitHub Readme YouTube Cards by P.Mohan Kumar"
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: DenverCoder1/github-readme-youtube-cards@main
-        with:
-          channel_id: UCnc0Kv0byDbzh13JiDFeAXg
-          comment_tag_name: YOUTUBE-CARDS
-          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
-          show_duration: true
+author: "P.Mohan Kumar"
+description: "Workflow for displaying recent YouTube videos as SVG cards in your readme"
+branding:
+  icon: "grid"
+  color: "red"
+
+inputs:
+  channel_id:
+    description: "The channel ID to use for the feed"
+    required: true
+  lang:
+    description: "The language you want your cards description to use"
+    required: false
+    default: "en"
+  comment_tag_name:
+    description: "The name of the comment tag to use for the cards"
+    required: false
+    default: "YOUTUBE-CARDS"
+  max_videos:
+    description: "The maximum number of videos to display"
+    required: false
+    default: "6"
+  base_url:
+    description: "The base URL to use for the cards"
+    required: false
+    default: "https://ytcards.demolab.com/"
+  youtube_api_key:
+    description: "The YouTube API key to use for additional features such as the video duration"
+    required: false
+    default: ""
+  card_width:
+    description: "The width of the SVG cards"
+    required: false
+    default: "250"
+  border_radius:
+    description: "The border radius of the SVG cards"
+    required: false
+    default: "5"
+  background_color:
+    description: "The background color of the SVG cards"
+    required: false
+    default: "#0d1117"
+  title_color:
+    description: "The color of the title text"
+    required: false
+    default: "#ffffff"
+  stats_color:
+    description: "The color of the stats text"
+    required: false
+    default: "#dedede"
+  theme_context_light:
+    description: "JSON theme for light mode (keys: background_color, title_color, stats_color)."
+    required: false
+    default: "{}"
+  theme_context_dark:
+    description: "JSON theme for dark mode (keys: background_color, title_color, stats_color)"
+    required: false
+    default: "{}"
+  max_title_lines:
+    description: "The maximum number of lines to use for the title"
+    required: false
+    default: "1"
+  show_duration:
+    description: "Whether to show the video duration. Requires `youtube_api_key` to be set."
+    required: false
+    default: "false"
+  author_name:
+    description: "The name of the committer"
+    required: false
+    default: "P.Mohan Kumar"
+  author_email:
+    description: "The email address of the committer"
+    required: false
+    default: "pmohankumar50@gmail.com"
+  commit_message:
+    description: "The commit message to use for the commit"
+    required: false
+    default: "docs(readme): Update YouTube cards"
+  readme_path:
+    description: "The path to the readme file"
+    required: false
+    default: "README.md"
+  output_only:
+    description: "Whether to return the section markdown as output instead of writing to the file"
+    required: false
+    default: "false"
+  output_type:
+    description: "The type of output to be rendered by the action ('markdown' or 'html')"
+    required: false
+    default: "markdown"
+
+outputs:
+  markdown:
+    description: "The section markdown as output"
+    value: ${{ steps.generate-readme-update.outputs.markdown }}
+  committed:
+    description: "Whether the action has created a commit ('true' or 'false')"
+    value: ${{ steps.add-and-commit.outputs.committed }}
+  commit_long_sha:
+    description: "The full SHA of the commit that has just been created"
+    value: ${{ steps.add-and-commit.outputs.commit_long_sha }}
+  commit_sha:
+    description: "The short 7-character SHA of the commit that has just been created"
+    value: ${{ steps.add-and-commit.outputs.commit_sha }}
+  pushed:
+    description: "Whether the action has pushed to the remote ('true' or 'false')"
+    value: ${{ steps.add-and-commit.outputs.pushed }}
+
+runs:
+  using: "composite"
+  steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.11"
+
+    - name: Install Python dependencies
+      shell: bash
+      run: python -m pip install -r ${{ github.action_path }}/requirements-action.txt
+
+    - name: Generate Readme Update
+      id: "generate-readme-update"
+      shell: bash
+      run: |
+        UPDATE=$(python ${{ github.action_path }}/action.py \
+                --channel "${{ inputs.channel_id }}" \
+                --lang "${{ inputs.lang }}" \
+                --comment-tag-name "${{ inputs.comment_tag_name }}" \
+                --max-videos ${{ inputs.max_videos }} \
+                --base-url "${{ inputs.base_url }}" \
+                --card-width ${{ inputs.card_width }} \
+                --border-radius ${{ inputs.border_radius }} \
+                --background-color "${{ inputs.background_color }}" \
+                --title-color "${{ inputs.title_color }}" \
+                --stats-color "${{ inputs.stats_color }}" \
+                --max-title-lines ${{ inputs.max_title_lines }} \
+                --youtube-api-key "${{ inputs.youtube_api_key }}" \
+                --show-duration "${{ inputs.show_duration }}" \
+                --theme-context-light '${{ inputs.theme_context_light }}' \
+                --theme-context-dark '${{ inputs.theme_context_dark }}' \
+                --readme-path "${{ inputs.readme_path }}" \
+                --output-only "${{ inputs.output_only }}" \
+                --output-type "${{ inputs.output_type }}" \
+        ) || exit 1
+        echo "markdown=$(echo $UPDATE)" >> $GITHUB_OUTPUT
+
+    - name: Commit changes
+      id: "add-and-commit"
+      uses: EndBug/add-and-commit@v9
+      with:
+        message: "${{ inputs.commit_message }}"
+        author_name: "${{ inputs.author_name }}"
+        author_email: "${{ inputs.author_email }}"
