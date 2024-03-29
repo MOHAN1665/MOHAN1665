@@ -48,44 +48,12 @@
 
 <h2 align="center">📺 Latest YouTube Videos 📺</h2>
 <!-- BEGIN YOUTUBE-CARDS -->
-<!-- BEGIN EXAMPLE-YOUTUBE-CARDS -->
-<a href="https://www.youtube.com/watch?v=_i9l1nMdO0M">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_i9l1nMdO0M&title=Building+a+Modern+Registration+Form+Web+Application+%7C+Web+Development+Tutorial&lang=en&timestamp=1714973420&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=246">
-    <img src="https://ytcards.demolab.com/?id=_i9l1nMdO0M&title=Building+a+Modern+Registration+Form+Web+Application+%7C+Web+Development+Tutorial&lang=en&timestamp=1714973420&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=246" alt="Building a Modern Registration Form Web Application | Web Development Tutorial" title="Building a Modern Registration Form Web Application | Web Development Tutorial">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=lmVHdFa5TLs">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lmVHdFa5TLs&title=Effortless+Money+Management--+Creating+Your+IncomeExpenseTracker+Web+Application&lang=en&timestamp=1714973420&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=257">
-    <img src="https://ytcards.demolab.com/?id=lmVHdFa5TLs&title=Effortless+Money+Management--+Creating+Your+IncomeExpenseTracker+Web+Application&lang=en&timestamp=1714973420&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=257" alt="Effortless Money Management-- Creating Your IncomeExpenseTracker Web Application" title="Effortless Money Management-- Creating Your IncomeExpenseTracker Web Application">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=8VtK9Gy16J8">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8VtK9Gy16J8&title=Android+Calculator+App+Development+Tutorial+for+Beginners&lang=en&timestamp=1714973420&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=87">
-    <img src="https://ytcards.demolab.com/?id=8VtK9Gy16J8&title=Android+Calculator+App+Development+Tutorial+for+Beginners&lang=en&timestamp=1714973420&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=87" alt="Android Calculator App Development Tutorial for Beginners" title="Android Calculator App Development Tutorial for Beginners">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=TpLkiVZdsuY">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TpLkiVZdsuY&title=Java+Quiz+Program+Tutorial+%F0%9F%93%9D%F0%9F%A7%A0+%7C+Build+a+Dynamic+Quiz+App+in+Java+%23java&lang=en&timestamp=1703501620&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=83">
-    <img src="https://ytcards.demolab.com/?id=TpLkiVZdsuY&title=Java+Quiz+Program+Tutorial+%F0%9F%93%9D%F0%9F%A7%A0+%7C+Build+a+Dynamic+Quiz+App+in+Java+%23java&lang=en&timestamp=1703501620&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=83" alt="Java Quiz Program Tutorial 📝🧠 | Build a Dynamic Quiz App in Java #java" title="Java Quiz Program Tutorial 📝🧠 | Build a Dynamic Quiz App in Java #java">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=b18QLdylIak">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=b18QLdylIak&title=Java+Number+Guessing+Game+Tutorial+%F0%9F%94%A2%F0%9F%8E%AE+%7C+Build+an+Interactive+Game+in+Java+%23java&lang=en&timestamp=1703501491&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=87">
-    <img src="https://ytcards.demolab.com/?id=b18QLdylIak&title=Java+Number+Guessing+Game+Tutorial+%F0%9F%94%A2%F0%9F%8E%AE+%7C+Build+an+Interactive+Game+in+Java+%23java&lang=en&timestamp=1703501491&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=87" alt="Java Number Guessing Game Tutorial 🔢🎮 | Build an Interactive Game in Java #java" title="Java Number Guessing Game Tutorial 🔢🎮 | Build an Interactive Game in Java #java">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=2fZC0DYODmY">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2fZC0DYODmY&title=Java+Grade+Calculator+Tutorial+%F0%9F%93%8A%F0%9F%8E%93+%7C+Calculate+Grades+%26+Percentages+in+Java+%23java&lang=en&timestamp=1703501355&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=91">
-    <img src="https://ytcards.demolab.com/?id=2fZC0DYODmY&title=Java+Grade+Calculator+Tutorial+%F0%9F%93%8A%F0%9F%8E%93+%7C+Calculate+Grades+%26+Percentages+in+Java+%23java&lang=en&timestamp=1703501355&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=91" alt="Java Grade Calculator Tutorial 📊🎓 | Calculate Grades & Percentages in Java #java" title="Java Grade Calculator Tutorial 📊🎓 | Calculate Grades & Percentages in Java #java">
-  </picture>
-</a>
-<!-- END EXAMPLE-YOUTUBE-CARDS -->
+[![Web Development Tutorial: Design Your Unique Blogging Platform](https://ytcards.demolab.com/?id=_i9l1nMdO0M&title=Web+Development+Tutorial%3A+Design+Your+Unique+Blogging+Platform&lang=en&timestamp=1704358213&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=246 "Web Development Tutorial: Design Your Unique Blogging Platform")](https://www.youtube.com/watch?v=_i9l1nMdO0M)
+[![Java Quiz Program Tutorial 📝🧠 | Build a Dynamic Quiz App in Java #java](https://ytcards.demolab.com/?id=TpLkiVZdsuY&title=Java+Quiz+Program+Tutorial+%F0%9F%93%9D%F0%9F%A7%A0+%7C+Build+a+Dynamic+Quiz+App+in+Java+%23java&lang=en&timestamp=1703501620&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=83 "Java Quiz Program Tutorial 📝🧠 | Build a Dynamic Quiz App in Java #java")](https://www.youtube.com/watch?v=TpLkiVZdsuY)
+[![Java Number Guessing Game Tutorial 🔢🎮 | Build an Interactive Game in Java #java](https://ytcards.demolab.com/?id=b18QLdylIak&title=Java+Number+Guessing+Game+Tutorial+%F0%9F%94%A2%F0%9F%8E%AE+%7C+Build+an+Interactive+Game+in+Java+%23java&lang=en&timestamp=1703501491&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=87 "Java Number Guessing Game Tutorial 🔢🎮 | Build an Interactive Game in Java #java")](https://www.youtube.com/watch?v=b18QLdylIak)
+[![Java Grade Calculator Tutorial 📊🎓 | Calculate Grades & Percentages in Java #java](https://ytcards.demolab.com/?id=2fZC0DYODmY&title=Java+Grade+Calculator+Tutorial+%F0%9F%93%8A%F0%9F%8E%93+%7C+Calculate+Grades+%26+Percentages+in+Java+%23java&lang=en&timestamp=1703501355&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=91 "Java Grade Calculator Tutorial 📊🎓 | Calculate Grades & Percentages in Java #java")](https://www.youtube.com/watch?v=2fZC0DYODmY)
+[![Java Course Registration System Tutorial 📚🖥️ | Step-by-Step Java Programming Project #java](https://ytcards.demolab.com/?id=HHJ6u9u4E6Y&title=Java+Course+Registration+System+Tutorial+%F0%9F%93%9A%F0%9F%96%A5%EF%B8%8F+%7C+Step-by-Step+Java+Programming+Project+%23java&lang=en&timestamp=1703501179&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=335 "Java Course Registration System Tutorial 📚🖥️ | Step-by-Step Java Programming Project #java")](https://www.youtube.com/watch?v=HHJ6u9u4E6Y)
+[![Mastering Java: Build Your Own ATM System Step-by-Step 🏧💻 | Java Programming Tutorial #java](https://ytcards.demolab.com/?id=gkOHQdVGxIQ&title=Mastering+Java%3A+Build+Your+Own+ATM+System+Step-by-Step+%F0%9F%8F%A7%F0%9F%92%BB+%7C+Java+Programming+Tutorial+%23java&lang=en&timestamp=1703501041&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=99 "Mastering Java: Build Your Own ATM System Step-by-Step 🏧💻 | Java Programming Tutorial #java")](https://www.youtube.com/watch?v=gkOHQdVGxIQ)
 <!-- END YOUTUBE-CARDS -->
 
 
