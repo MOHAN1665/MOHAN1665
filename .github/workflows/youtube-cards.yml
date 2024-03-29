@@ -1,5 +1,4 @@
-name: "GitHub Readme YouTube Cards by P.Mohan Kumar"
-
+name: GitHub Readme YouTube Cards
 on:
   schedule:
     # Runs every hour, on the hour
@@ -12,48 +11,9 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Setup Python
-        uses: actions/setup-python@v4
+      - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          python-version: "3.11"
-
-      - name: Install Python dependencies
-        shell: bash
-        run: python -m pip install -r ${{ github.action_path }}/requirements-action.txt
-
-      - name: Generate Readme Update
-        id: "generate-readme-update"
-        shell: bash
-        run: |
-          UPDATE=$(python ${{ github.action_path }}/action.py \
-                  --channel "${{ inputs.channel_id }}" \
-                  --lang "${{ inputs.lang }}" \
-                  --comment-tag-name "${{ inputs.comment_tag_name }}" \
-                  --max-videos ${{ inputs.max_videos }} \
-                  --base-url "${{ inputs.base_url }}" \
-                  --card-width ${{ inputs.card_width }} \
-                  --border-radius ${{ inputs.border_radius }} \
-                  --background-color "${{ inputs.background_color }}" \
-                  --title-color "${{ inputs.title_color }}" \
-                  --stats-color "${{ inputs.stats_color }}" \
-                  --max-title-lines ${{ inputs.max_title_lines }} \
-                  --youtube-api-key "${{ inputs.youtube_api_key }}" \
-                  --show-duration "${{ inputs.show_duration }}" \
-                  --theme-context-light '${{ inputs.theme_context_light }}' \
-                  --theme-context-dark '${{ inputs.theme_context_dark }}' \
-                  --readme-path "${{ inputs.readme_path }}" \
-                  --output-only "${{ inputs.output_only }}" \
-                  --output-type "${{ inputs.output_type }}" \
-          ) || exit 1
-          echo "markdown=$(echo $UPDATE)" >> $GITHUB_OUTPUT
-
-      - name: Commit changes
-        id: "add-and-commit"
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "${{ inputs.commit_message }}"
-          author_name: "${{ inputs.author_name }}"
-          author_email: "${{ inputs.author_email }}"
+          channel_id: UCnc0Kv0byDbzh13JiDFeAXg
+          comment_tag_name: YOUTUBE-CARDS
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+          show_duration: true
