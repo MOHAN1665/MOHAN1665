@@ -31,6 +31,10 @@
   <a href="https://www.youtube.com/channel/UCnc0Kv0byDbzh13JiDFeAXg" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
   </a>
+    <a href="https://www.youtube.com/channel/UCnc0Kv0byDbzh13JiDFeAXg">
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCnc0Kv0byDbzh13JiDFeAXg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
+</a>
+
 </div>
 
 <hr/>
