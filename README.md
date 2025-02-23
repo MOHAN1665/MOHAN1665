@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Mohan+Kumar!;">
 </h1>
 
-<h3 align="center">Tech Enthusiast | Android App Developer, Web Developer, and Coding & Hacking Enthusiast</h3>
+<h3 align="center">Tech Enthusiast | ML & AI | Cybersecurity & Coding</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MOHAN1665&label=Profile%20views&color=0e75b6&style=flat" alt="MOHAN1665" /> </p>
 
 <br/>
