@@ -134,25 +134,17 @@ Some of the areas I enjoy building and exploring:
 
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MOHAN1665&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MOHAN1665&show_icons=true&theme=default&hide_border=true&rank_icon=github"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=MOHAN1665&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-  </picture>
+  <img height="180"
+    src="https://github-stats-extended.vercel.app/api?username=MOHAN1665&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    alt="GitHub Statistics"/>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MOHAN1665&theme=github-dark-blue&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=MOHAN1665&theme=default&hide_border=true"/>
-    <img height="180" src="https://streak-stats.demolab.com?user=MOHAN1665&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-  </picture>
+  <img height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=MOHAN1665&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
+    alt="Top Languages"/>
 
-  <br/><br/>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAN1665&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAN1665&layout=compact&langs_count=8&theme=default&hide_border=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAN1665&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages"/>
-  </picture>
+  <img height="180"
+    src="https://streak-stats.demolab.com?user=MOHAN1665&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"/>
 
 </div>
 
