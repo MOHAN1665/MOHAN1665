@@ -158,15 +158,15 @@ Some of the areas I enjoy building and exploring:
 
 ---
 
-## 🐍 Contribution Activity
+<h2 align="center">🐍 Contribution Activity</h2>
 
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MOHAN1665/MOHAN1665/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MOHAN1665/MOHAN1665/output/github-snake.svg"/>
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/MOHAN1665/MOHAN1665/output/github-snake.svg" width="100%"/>
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/MOHAN1665/MOHAN1665/output/github-snake.gif"
+    alt="Animated GitHub Contribution Snake"
+    width="100%"
+  />
 
 </div>
 
