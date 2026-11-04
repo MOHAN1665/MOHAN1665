@@ -1,130 +1,192 @@
-![logo](https://github.com/MOHAN1665/MOHAN1665/blob/main/MK_Banner.png)
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mohan1665.mohan1665" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Mohan+Kumar!;">
-</h1>
-
-<h3 align="center">Tech Enthusiast | ML & AI | Cybersecurity & Coding</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MOHAN1665&label=Profile%20views&color=0e75b6&style=flat" alt="MOHAN1665" /> </p>
-
-<br/>
+# 👋 Hi, I'm Mohan Kumar
 
 <div align="center">
- 
- 🔭 I’m currently working on **Android App Development**
 
- 🌱 I’m currently learning **AI and Ethical Hacking**
+  <img src="https://raw.githubusercontent.com/MOHAN1665/MOHAN1665/main/MK_Banner.png" width="100%" alt="Mohan Kumar Banner"/>
 
- 💬 Ask me about **Android, Web Development, Coding, Hacking**
+  <h2>Software Developer | Full-Stack Engineering | AI & Cloud Technologies</h2>
 
- 📫 How to reach me: **pmohankumar50@gmail.com**
+  <p>
+    Building scalable applications, backend systems, automation solutions and AI-powered applications.
+  </p>
 
- </div>
- 
-<div align="center"> 
-   <a href="mailto:pmohankumar50@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=MOHAN1665&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/MOHAN1665?label=Followers&style=flat-square&color=blue" alt="GitHub Followers"/>
+  </p>
+
+  <a href="mailto:pmohankumar50@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/p-mohan-kumar-9b7495248" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://linkedin.com/in/p-mohan-kumar-9b7495248">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCnc0Kv0byDbzh13JiDFeAXg" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
+  <a href="https://github.com/MOHAN1665">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-    <a href="https://www.youtube.com/channel/UCnc0Kv0byDbzh13JiDFeAXg">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCnc0Kv0byDbzh13JiDFeAXg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
-</a>
+  <a href="https://www.youtube.com/channel/UCnc0Kv0byDbzh13JiDFeAXg">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
 
 </div>
 
-<hr/>
+---
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+## 👨‍💻 About Me
+
+- 💻 Software developer passionate about building practical and scalable software solutions.
+- ⚙️ Interested in backend engineering, REST APIs and microservices architecture.
+- ☁️ Working with cloud infrastructure, containerization and CI/CD automation.
+- 🤖 Exploring AI/ML, intelligent automation and AI-powered applications.
+- 🔐 Interested in cybersecurity, system design and emerging technologies.
+- 🚀 Always learning, building and improving my engineering skills.
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,go,c,cpp,kotlin" />
+</p>
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap" />
+</p>
+
+### ⚙️ Backend Development & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask,mongodb,mysql" />
+</p>
+
+### ☁️ Cloud, DevOps & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux,nginx,git,github" />
+</p>
+
+### 🤖 AI, Data & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=anaconda,arduino,vscode,idea,postman,powershell" />
+</p>
+
+---
+
+## 🚀 Projects & Engineering
+
+Some of the areas I enjoy building and exploring:
+
+| Area | Focus |
+|---|---|
+| Backend Engineering | REST APIs, Node.js, Java, Spring Boot |
+| Microservices | Distributed applications and service integration |
+| Cloud & DevOps | AWS, Docker, Kubernetes, CI/CD |
+| AI & Machine Learning | Intelligent applications and automation |
+| Full-Stack Development | Angular, JavaScript and backend integration |
+| Automation | Workflow automation and testing solutions |
+
+---
+
+## 📺 Latest YouTube Videos
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,html,css,javascript,kotlin,python,vscode,github,flask,gcp,go,ai,powershell,py,ubuntu" />
-    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,c,cpp,django,firebase,flask,mongodb,idea,js,linux,nodejs,anaconda,autocad,discord" /> <br>
-    
-</div>
 
-<br/>
-<hr/>
-
-<h2 align="center">📺 Latest YouTube Videos 📺</h2>
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- BEGIN EXAMPLE-YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=_i9l1nMdO0M">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_i9l1nMdO0M&title=Building+a+Modern+Registration+Form+Web+Application+%7C+Web+Development+Tutorial&lang=en&timestamp=1714973420&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=246">
-    <img src="https://ytcards.demolab.com/?id=_i9l1nMdO0M&title=Building+a+Modern+Registration+Form+Web+Application+%7C+Web+Development+Tutorial&lang=en&timestamp=1714973420&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=246" alt="Building a Modern Registration Form Web Application | Web Development Tutorial" title="Building a Modern Registration Form Web Application | Web Development Tutorial">
-  </picture>
+  <img width="30%" src="https://img.youtube.com/vi/_i9l1nMdO0M/mqdefault.jpg" alt="Registration Form Web Application"/>
 </a>
 <a href="https://www.youtube.com/watch?v=lmVHdFa5TLs">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lmVHdFa5TLs&title=Effortless+Money+Management--+Creating+Your+IncomeExpenseTracker+Web+Application&lang=en&timestamp=1714973420&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=257">
-    <img src="https://ytcards.demolab.com/?id=lmVHdFa5TLs&title=Effortless+Money+Management--+Creating+Your+IncomeExpenseTracker+Web+Application&lang=en&timestamp=1714973420&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=257" alt="Effortless Money Management-- Creating Your IncomeExpenseTracker Web Application" title="Effortless Money Management-- Creating Your IncomeExpenseTracker Web Application">
-  </picture>
+  <img width="30%" src="https://img.youtube.com/vi/lmVHdFa5TLs/mqdefault.jpg" alt="Income Expense Tracker"/>
 </a>
 <a href="https://www.youtube.com/watch?v=8VtK9Gy16J8">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8VtK9Gy16J8&title=Android+Calculator+App+Development+Tutorial+for+Beginners&lang=en&timestamp=1714973420&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=87">
-    <img src="https://ytcards.demolab.com/?id=8VtK9Gy16J8&title=Android+Calculator+App+Development+Tutorial+for+Beginners&lang=en&timestamp=1714973420&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=87" alt="Android Calculator App Development Tutorial for Beginners" title="Android Calculator App Development Tutorial for Beginners">
-  </picture>
+  <img width="30%" src="https://img.youtube.com/vi/8VtK9Gy16J8/mqdefault.jpg" alt="Android Calculator"/>
 </a>
 <a href="https://www.youtube.com/watch?v=TpLkiVZdsuY">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TpLkiVZdsuY&title=Java+Quiz+Program+Tutorial+%F0%9F%93%9D%F0%9F%A7%A0+%7C+Build+a+Dynamic+Quiz+App+in+Java+%23java&lang=en&timestamp=1703501620&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=83">
-    <img src="https://ytcards.demolab.com/?id=TpLkiVZdsuY&title=Java+Quiz+Program+Tutorial+%F0%9F%93%9D%F0%9F%A7%A0+%7C+Build+a+Dynamic+Quiz+App+in+Java+%23java&lang=en&timestamp=1703501620&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=83" alt="Java Quiz Program Tutorial 📝🧠 | Build a Dynamic Quiz App in Java #java" title="Java Quiz Program Tutorial 📝🧠 | Build a Dynamic Quiz App in Java #java">
-  </picture>
+  <img width="30%" src="https://img.youtube.com/vi/TpLkiVZdsuY/mqdefault.jpg" alt="Java Quiz Program"/>
 </a>
 <a href="https://www.youtube.com/watch?v=b18QLdylIak">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=b18QLdylIak&title=Java+Number+Guessing+Game+Tutorial+%F0%9F%94%A2%F0%9F%8E%AE+%7C+Build+an+Interactive+Game+in+Java+%23java&lang=en&timestamp=1703501491&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=87">
-    <img src="https://ytcards.demolab.com/?id=b18QLdylIak&title=Java+Number+Guessing+Game+Tutorial+%F0%9F%94%A2%F0%9F%8E%AE+%7C+Build+an+Interactive+Game+in+Java+%23java&lang=en&timestamp=1703501491&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=87" alt="Java Number Guessing Game Tutorial 🔢🎮 | Build an Interactive Game in Java #java" title="Java Number Guessing Game Tutorial 🔢🎮 | Build an Interactive Game in Java #java">
-  </picture>
+  <img width="30%" src="https://img.youtube.com/vi/b18QLdylIak/mqdefault.jpg" alt="Java Number Guessing Game"/>
 </a>
 <a href="https://www.youtube.com/watch?v=2fZC0DYODmY">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2fZC0DYODmY&title=Java+Grade+Calculator+Tutorial+%F0%9F%93%8A%F0%9F%8E%93+%7C+Calculate+Grades+%26+Percentages+in+Java+%23java&lang=en&timestamp=1703501355&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=91">
-    <img src="https://ytcards.demolab.com/?id=2fZC0DYODmY&title=Java+Grade+Calculator+Tutorial+%F0%9F%93%8A%F0%9F%8E%93+%7C+Calculate+Grades+%26+Percentages+in+Java+%23java&lang=en&timestamp=1703501355&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=91" alt="Java Grade Calculator Tutorial 📊🎓 | Calculate Grades & Percentages in Java #java" title="Java Grade Calculator Tutorial 📊🎓 | Calculate Grades & Percentages in Java #java">
-  </picture>
+  <img width="30%" src="https://img.youtube.com/vi/2fZC0DYODmY/mqdefault.jpg" alt="Java Grade Calculator"/>
 </a>
 
-<!-- END EXAMPLE-YOUTUBE-CARDS -->
+<br/>
 
-<!-- END YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/channel/UCnc0Kv0byDbzh13JiDFeAXg?sub_confirmation=1">
+  <img src="https://custom-icon-badges.demolab.com/badge/Subscribe%20For%20More-FF0000?style=for-the-badge&logo=video&logoColor=white" alt="Subscribe"/>
+</a>
 
+</div>
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCnc0Kv0byDbzh13JiDFeAXg?sub_confirmation=1)
+---
 
-
-<hr/>
+## 📊 GitHub Statistics
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mohan1665/mohan1665/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MOHAN1665&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MOHAN1665&show_icons=true&theme=default&hide_border=true&rank_icon=github"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=MOHAN1665&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MOHAN1665&theme=github-dark-blue&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=MOHAN1665&theme=default&hide_border=true"/>
+    <img height="180" src="https://streak-stats.demolab.com?user=MOHAN1665&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  </picture>
+
+  <br/><br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAN1665&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAN1665&layout=compact&langs_count=8&theme=default&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAN1665&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages"/>
+  </picture>
+
 </div>
 
-<hr/>
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=mohan1665&theme=react&border_radius=5.3&date_format=j%20M%5B%20Y%5D&card_width=500" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mohan1665&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan1665&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+## 🐍 Contribution Activity
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MOHAN1665/MOHAN1665/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MOHAN1665/MOHAN1665/output/github-snake.svg"/>
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/MOHAN1665/MOHAN1665/output/github-snake.svg" width="100%"/>
+  </picture>
+
 </div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to connecting with developers, exploring new technologies and collaborating on interesting projects.
+
+<a href="mailto:pmohankumar50@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/p-mohan-kumar-9b7495248">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/MOHAN1665">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br/><br/>
-<hr/>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Feel+free+to+connect+with+me+on+LinkedIn!">
-</h3>
+### 💡 Building | Learning | Innovating
 
-<br/>
+<i>"Great software is built one thoughtful commit at a time."</i>
+
+</div>
